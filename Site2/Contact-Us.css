@@ -40,9 +40,9 @@
 .u-section-1 .u-image-1 {min-height: 243px}
 .u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-1 {min-height: 1171px}
+@media (max-width: 575px){ .u-section-1 {min-height: 904px}
 .u-section-1 .u-shape-1 {width: calc(((100% - 340px) / 2) + 286px)}
-.u-section-1 .u-layout-wrap-1 {width: 340px}
+.u-section-1 .u-layout-wrap-1 {width: 340px; margin-top: -81px; margin-bottom: -66px}
 .u-section-1 .u-container-layout-1 {padding-left: 20px; padding-right: 20px}
 .u-section-1 .u-text-1 {font-size: 2.25rem}
 .u-section-1 .u-container-layout-2 {padding-left: 20px; padding-right: 20px}
